@@ -1,4 +1,4 @@
-# Flutter Movie App
+# Flutter MovieStream App
 
 Using BLoc Pattern and JSON API.
 Data Provider: https://www.themoviedb.org
